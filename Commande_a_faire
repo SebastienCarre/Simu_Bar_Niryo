@@ -1,1 +1,3 @@
+Installer ce package : https://github.com/NiryoRobotics/niryo_one_ros_simulation.git
+
 roslaunch test_simu test_bar.launch
