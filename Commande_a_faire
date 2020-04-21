@@ -1,0 +1,1 @@
+roslaunch test_simu test_bar.launch
